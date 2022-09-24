@@ -68,7 +68,7 @@ $$
 $$
 
 - From the equations it should be clear that even a perceptron separates the input space into two halves
-- All the inputs which produce a 1 lie on one side and all inputs which produce a 0 lie on the other side 
+- All the inputs which produce a 1 lie on one side and all inputs which produce a 0 lie on the other side
 - In other words, a single perceptron can only be used to implement linearly seperable functions
 - Then what is the difference between McCulloch-Pitts model and Perceptron?
   - The weights (including the threshold) can be learned and the inputs can be real valued.
